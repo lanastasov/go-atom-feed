@@ -1,2 +1,1 @@
-# go-atom-feed
-Collect the Go repositories from the atom feed from github
+https://developer.github.com/v3/activity/feeds/
