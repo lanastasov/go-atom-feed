@@ -9,3 +9,5 @@ https://github.com/ilyaglow/gitlab-atom-tgbot/blob/master/main.go
 https://github.com/mmcdole/gofeed
 
 https://github.com/jonasi/feedme
+
+https://github.com/gorilla/feeds
